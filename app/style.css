@@ -1,0 +1,16 @@
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    overflow: hidden;
+}
+
+.content1
+{
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: green;
+}

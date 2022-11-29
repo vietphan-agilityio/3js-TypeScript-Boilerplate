@@ -1,0 +1,20 @@
+{
+  "tabWidth": 4,
+  "useTabs": false,
+  "semi": true,
+  "quoteProps": "as-needed",
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "printWidth": 100,
+  "endOfLine": "crlf",
+  "overrides": [
+    {
+      "files": ["*.html", "*js", "*json"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
